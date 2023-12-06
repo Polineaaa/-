@@ -1,0 +1,77 @@
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Form1.resources
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\Sulpa\Downloads\ArcanoidExtra-master\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Form1.resources
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.pdb
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\x86\sqlite3.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\x64\sqlite3.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Buffers.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Memory.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Buffers.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Memory.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.datagrid.resources
+C:\Users\Alena\Desktop\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.CopyComplete
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\x86\sqlite3.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\x64\sqlite3.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe.config
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.exe
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Arcanoid.pdb
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Buffers.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Memory.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Buffers.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Memory.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.AssemblyReference.cache
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Form1.resources
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.Properties.Resources.resources
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.GenerateResource.cache
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.CoreCompileInputs.cache
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.csproj.CopyComplete
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.exe
+C:\Users\Sulpa\Downloads\Арканоид (1)\Арканоид\ArcanoidExtra-master\Arcanoid\obj\Debug\Arcanoid.pdb
